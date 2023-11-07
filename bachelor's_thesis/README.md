@@ -4,14 +4,15 @@ This folder contains my Bachelor's thesis project. It includes a Jupyter noteboo
 
 ## Project Overview
 
-- **Thesis Title:** [Your Thesis Title]
-- **Author:** [Your Name]
-- **Date:** [Date of Completion]
+- **Thesis Title:** Verbesserung modellbasierter Windkraft-Erzeugungszeitreihen mittels künstlicher Neuronaler Netze unter Ausnutzung topologischer Information
+                    (Improving Model-Based Wind Power Generation Time Series Through the Use of Artificial Neural Networks Exploiting Topological Information)
+- **Author:** Tobias Biegert
+- **Date:** October 14th 2021
 
 ## Files
 
-- : The final thesis document.
-- : Jupyter notebook containing the code for the project.
+- Bachelor's_Thesis_Tobias_Biegert.pdf: The final thesis document.
+- Code_Bachelor's_Thesis_Tobias_Biegert.ipynb: Jupyter notebook containing the code for the project.
 
 ## Project Description
 
@@ -20,7 +21,7 @@ This folder contains my Bachelor's thesis project. It includes a Jupyter noteboo
 ## Usage
 
 - You can view the thesis document by clicking the "Thesis.pdf" link above.
-- To examine the code and run the Jupyter notebook, download the "Code.ipynb" file and open it in your Jupyter Notebook environment.
+- To examine the code and run the Jupyter notebook, download the "Code.ipynb" file and open it in your Jupyter Notebook environment. I ran it in a Google Colab Environment.
 
 ## Dependencies
 
