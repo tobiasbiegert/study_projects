@@ -27,10 +27,6 @@ This folder contains my Bachelor's thesis project. It includes a Jupyter noteboo
 
 - [List any dependencies or software requirements necessary to run the code, if applicable.]
 
-## License
-
-This project is licensed under [your chosen license]. See the [LICENSE](LICENSE) file for more details.
-
 ## Contact
 
 If you have any questions or would like to contact me regarding this project, feel free to reach out via tobias-biegert@web.de.
