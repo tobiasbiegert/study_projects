@@ -30,15 +30,6 @@ This folder contains my project on predicting wildfires that was done in the con
 
 - [List any dependencies or software requirements necessary to run the code, if applicable.]
 
-## License
-
-This project is licensed under [your chosen license]. See the [LICENSE](LICENSE) file for more details.
-
 ## Contact
 
-If you have any questions or would like to contact me regarding this project or the seminar report, feel free to reach out via [your contact information].
-
-[Add any additional contact or social media information if you wish.]
-
----
-[Optional: Add badges or shields, e.g., license, status, or contributions, for your repository.]
+If you have any questions or would like to contact me regarding this project or the seminar report, feel free to reach out via tobias-biegert@web.de.
