@@ -1,0 +1,30 @@
+# Predicting Future Behavior of Road Users
+
+This folder contains my seminar paper on the topic of "Predicting Future Behavior of Road Users". 
+The project was done in the context of the seminar "Cognitive Automobiles and Robots" at Karlsruhe Institute of Technology.
+
+## Seminar Paper Overview
+
+- **Title:** Predicting Future Behavior of Road Users
+- **Author:** Tobias Biegert
+- **Date:** March 31st 2023
+
+## Paper
+
+- [Predicting_Future_Behavior_of_Road_Users.pdf](Predicting_Future_Behavior_of_Road_Users.pdf): The seminar paper document.
+
+## Project Description
+
+[Provide a brief description of your seminar paper project. Explain the objectives, the main topics covered in the paper, and any key insights or findings.]
+
+## Purpose
+
+- This seminar paper aims to explore and analyze the state-of-the-art in predicting the future behavior of road users, providing an overview of different architectures.
+
+## Usage
+
+- You can view the seminar paper by clicking the "Predicting_Future_Behavior_of_Road_Users.pdf" link above.
+
+## Contact
+
+If you have any questions or would like to contact me regarding this project or the seminar paper, feel free to reach out via tobias-biegert@web.de.
