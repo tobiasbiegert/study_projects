@@ -11,7 +11,7 @@ This folder contains my project on predicting wildfires that was done in the con
 ## Files
 
 - : The seminar report summarizing the project's findings.
-- https://github.com/tobiasbiegert/study_projects/blob/main/seminar_predictive_data_analytics/Code_Predictive_Data_Analytics.ipynb: Jupyter Notebook containing the code for the analysis.
+- [Code_Predictive_Data_Analytics](https://github.com/tobiasbiegert/study_projects/blob/main/seminar_predictive_data_analytics/Code_Predictive_Data_Analytics.ipynb): Jupyter Notebook containing the code for the analysis.
 
 ## Project Description
 
