@@ -11,7 +11,7 @@ The project was done in the context of the seminar "Cognitive Automobiles and Ro
 
 ## Paper
 
-- [Predicting_Future_Behavior_of_Road_Users.pdf](Predicting_Future_Behavior_of_Road_Users.pdf): The seminar paper document.
+- [Predicting_Future_Behavior_of_Road_Users.pdf](https://github.com/tobiasbiegert/study_projects/blob/main/seminar_cognitive_automobiles_and_robots/Predicting_Future_Behaviour_of_Road_Users.pdf): The seminar paper document.
 
 ## Project Description
 
