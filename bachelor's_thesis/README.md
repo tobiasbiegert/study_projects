@@ -11,8 +11,8 @@ This folder contains my Bachelor's thesis project. It includes a Jupyter noteboo
 
 ## Files
 
-- Bachelor's_Thesis_Tobias_Biegert.pdf: The final thesis document.
-- Code_Bachelor's_Thesis_Tobias_Biegert.ipynb: Jupyter notebook containing the code for the project.
+- [Bachelor's_Thesis_Tobias_Biegert.pdf](https://github.com/tobiasbiegert/study_projects/blob/main/bachelor's_thesis/Bachelor's_Thesis_Tobias_Biegert.pdf): The final thesis document.
+- [Code_Bachelor's_Thesis_Tobias_Biegert.ipynb](https://github.com/tobiasbiegert/study_projects/blob/main/bachelor's_thesis/Code_Bachelor's_Thesis_Tobias_Biegert.ipynb): Jupyter notebook containing the code for the project.
 
 ## Project Description
 
