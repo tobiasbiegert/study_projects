@@ -13,10 +13,6 @@ The project was done in the context of the seminar "Cognitive Automobiles and Ro
 
 - [Predicting_Future_Behavior_of_Road_Users.pdf](https://github.com/tobiasbiegert/study_projects/blob/main/seminar_cognitive_automobiles_and_robots/Predicting_Future_Behaviour_of_Road_Users.pdf): The seminar paper document.
 
-## Project Description
-
-[Provide a brief description of your seminar paper project. Explain the objectives, the main topics covered in the paper, and any key insights or findings.]
-
 ## Purpose
 
 - This seminar paper aims to explore and analyze the state-of-the-art in predicting the future behavior of road users, providing an overview of different architectures.
