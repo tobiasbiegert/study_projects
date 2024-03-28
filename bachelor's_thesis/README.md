@@ -14,18 +14,10 @@ This folder contains my Bachelor's thesis project. It includes a Jupyter noteboo
 - [Bachelor's_Thesis_Tobias_Biegert.pdf](https://github.com/tobiasbiegert/study_projects/blob/main/bachelor's_thesis/Bachelor's_Thesis_Tobias_Biegert.pdf): The final thesis document.
 - [Code_Bachelor's_Thesis_Tobias_Biegert.ipynb](https://github.com/tobiasbiegert/study_projects/blob/main/bachelor's_thesis/Code_Bachelor's_Thesis_Tobias_Biegert.ipynb): Jupyter notebook containing the code for the project.
 
-## Project Description
-
-[Provide a brief description of your Bachelor's thesis project. Explain the problem, the approach you took, and the key findings or results.]
-
 ## Usage
 
 - You can view the thesis document by clicking the "Thesis.pdf" link above.
 - To examine the code and run the Jupyter notebook, download the "Code.ipynb" file and open it in your Jupyter Notebook environment. I ran it in a Google Colab Environment.
-
-## Dependencies
-
-- [List any dependencies or software requirements necessary to run the code, if applicable.]
 
 ## Contact
 
