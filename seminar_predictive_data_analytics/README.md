@@ -13,10 +13,6 @@ This folder contains my project on predicting wildfires that was done in the con
 - [Report_Predictive_Data_analytics.pdf](https://github.com/tobiasbiegert/study_projects/blob/main/seminar_predictive_data_analytics/Report_Predictive_Data_Analytics.pdf): The seminar report summarizing the project's findings.
 - [Code_Predictive_Data_Analytics.ipynb](https://github.com/tobiasbiegert/study_projects/blob/main/seminar_predictive_data_analytics/Code_Predictive_Data_Analytics.ipynb): Jupyter Notebook containing the code for the analysis.
 
-## Project Description
-
-[Provide a brief description of your Predictive Data Analytics seminar project. Explain the problem, the approach you took, and the key findings or results.]
-
 ## Purpose
 
 - This seminar project I attempt to predict the occurance and size of wildﬁres in the continental United States.
@@ -25,10 +21,6 @@ This folder contains my project on predicting wildfires that was done in the con
 
 - You can view the seminar report by clicking the "Report.pdf" link above.
 - To examine the code and run the Jupyter notebook, download the "Code.ipynb" file and open it in your Jupyter Notebook environment.
-
-## Dependencies
-
-- [List any dependencies or software requirements necessary to run the code, if applicable.]
 
 ## Contact
 
