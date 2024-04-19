@@ -4,7 +4,7 @@ This folder contains my Master's thesis project. It includes Jupyter notebooks w
 
 ## Project Overview
 
-- **Thesis Title:** 
+- **Thesis Title:** Probabilistic Benchmarks for Data-Driven Weather Forecasting
 - **Author:** Tobias Biegert
 - **Date:** March 15th 2024
 
