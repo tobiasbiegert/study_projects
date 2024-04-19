@@ -1,6 +1,6 @@
 # Master's Thesis
 
-This folder contains my Master's thesis project. It includes Jupyter notebooks with the code used for the project and a PDF document of the thesis itself.
+This folder contains my Master's thesis project. It includes Jupyter notebooks with the code used for the project.
 
 ## Project Overview
 
