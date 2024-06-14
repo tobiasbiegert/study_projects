@@ -17,11 +17,6 @@ This folder contains my project on predicting wildfires that was done in the con
 
 - This seminar project I attempt to predict the occurance and size of wildﬁres in the continental United States.
 
-## Usage
-
-- You can view the seminar report by clicking the "Report.pdf" link above.
-- To examine the code and run the Jupyter notebook, download the "Code.ipynb" file and open it in your Jupyter Notebook environment.
-
 ## Contact
 
 If you have any questions or would like to contact me regarding this project or the seminar report, feel free to reach out via tobias-biegert@web.de.
