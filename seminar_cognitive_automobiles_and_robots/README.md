@@ -17,9 +17,6 @@ The project was done in the context of the seminar "Cognitive Automobiles and Ro
 
 - This seminar paper aims to explore and analyze the state-of-the-art in predicting the future behavior of road users, providing an overview of different architectures.
 
-## Usage
-
-- You can view the seminar paper by clicking the "Predicting_Future_Behavior_of_Road_Users.pdf" link above.
 
 ## Contact
 
